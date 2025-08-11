@@ -1,0 +1,9 @@
+<resources>
+  <string-array name="strategies">
+    <item>EMA</item>
+    <item>RSI</item>
+    <item>Bollinger</item>
+    <item>Momentum</item>
+    <item>KI (TFLite)</item>
+  </string-array>
+</resources>
